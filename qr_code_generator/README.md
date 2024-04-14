@@ -1,16 +1,6 @@
-# qr_code_generator
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>QR CODE Generator App</h1>
+<br>
+This is a simple app to create a random qr code.
+By Default it will create a QR CODE which will have text saying "Random QR code 0" and on clicking the button a new QR CODE will be generated saying "Random QR Code 1" and so on.
+<hr>
+This app is a task assignment for Collab Chatbots internship. 
