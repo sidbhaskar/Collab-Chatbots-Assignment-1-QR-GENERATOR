@@ -5,5 +5,6 @@ By Default it will create a QR CODE which will have text saying "Random QR code 
 <hr>
 This app is a task assignment for Collab Chatbots internship. 
 
+<h1>Screenshot:</h1>
 
-![Sample ScreenShot](https://github.com/sidbhaskar/Collab-Chatbots-Assignment-1-QR-GENERATOR/assets/127882109/90ab7cc1-2ecd-452f-b8d2-dcda4cb5319d)
+![Sample ScreenShot](https://github.com/sidbhaskar/Collab-Chatbots-Assignment-1-QR-GENERATOR/assets/127882109/be87225b-9f15-4448-97e5-8aab4612cd16)
